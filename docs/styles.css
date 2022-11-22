@@ -85,7 +85,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url("/docs/images/bg-pattern-bottom-desktop.svg"), url("/docs/images/bg-pattern-top-desktop.svg");
+  background-image: url("images/bg-pattern-bottom-desktop.svg"), url("images/bg-pattern-top-desktop.svg");
   background-size: cover;
   font-family: "League Spartan", sans-serif;
   font-size: 1.5rem;
